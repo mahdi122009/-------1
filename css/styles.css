@@ -1,0 +1,241 @@
+
+
+
+.ava {
+    position: relative;
+    left: 360px;
+    top: 36px;
+}
+
+.quele{
+    position: relative;
+    left: 67px;
+    bottom: 42px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 800;
+
+}
+
+.design {
+    position: relative;
+    left: 130px;
+    bottom: 80px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 800;   
+}
+
+.rub1500 {
+    position: relative;
+    left: 362px;
+    top: 16px;
+    width: 85px;
+}
+
+.rer {
+    position: relative;
+    left: 431px;
+}
+
+.QUELECs {
+font-family: Gotham;
+font-size: 60px;
+font-weight: 800;
+line-height: 43px;
+color: rgb(237, 163, 76);
+position: relative;
+top: 91px;
+padding-left: 94px;
+}
+
+.grg {
+color: rgb(255, 255, 255);
+font-family: Gotham;
+font-size: 60px;
+font-weight: 800;
+line-height: 43px;
+position: relative;
+top: 140px;
+padding-left: 108px;
+}
+
+.gta1 {
+    color: rgb(53, 53, 52);
+    font-family: Gotham;
+    font-size: 23px;
+    font-weight: 900;
+    line-height: 38px;
+
+    width: 545px;
+    height: 27px;
+    position: relative;
+    top: 170px;
+    padding-left: 111px;
+}
+
+.gta3 {
+    position: relative;
+    bottom: 278px;
+    padding-left: 108px;
+}
+
+
+.gta4 {
+    position: relative;
+    bottom: 260px;
+    padding-left: 108px;
+    /* width: 75px; */
+    /* height: 44px; */
+    color: rgb(53, 53, 52);
+
+    font-size: 24px;
+    font-weight: 800;
+
+
+}
+
+
+.gta5 {
+    position: relative;
+    bottom: 235px;
+    padding-left: 108px;
+}
+.gta6 {
+    position: relative;
+    bottom: 304px;
+    padding-left: 160px;
+}.gta7 {
+    position: relative;
+    bottom: 372px;
+    padding-left: 215px;
+}.gta8 {
+    position: relative;
+    bottom: 439px;
+    padding-left: 269px;
+}
+
+.gta9 {
+    position: relative;
+    bottom: 480px;
+    padding-left: 373px;
+    color: rgb(53, 53, 52);
+    font-size: 23px;
+    font-weight: 900;
+}
+
+
+.frame {
+    position: relative;
+    bottom: 150px;
+    padding-left: 108px;
+}
+
+.gta10 {
+    color: rgb(255, 255, 255);
+     
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 10px;
+    /* text-align: left; */
+    position: relative;
+    padding-left: 199px;
+    bottom: 188px;
+
+}
+.DeathMatch {
+    position: relative;
+    bottom: 89px;
+    padding-left: 99px;
+}
+
+.DeathMatch1 {
+    position: relative;
+    bottom: 155px;
+    padding-left: 251px;
+}.DeathMatch2 {
+    position: relative;
+    bottom: 222px;
+    padding-left: 398px;
+}.DeathMatch3 {
+    position: relative;
+    bottom: 290px;
+    padding-left: 542px;
+
+}.DeathMatch4 {
+    position: relative;
+    bottom: 359px;
+    padding-left: 692px;
+}.DeathMatch5 {
+    position: relative;
+    bottom: 428px;
+    padding-left: 839px;
+}.DeathMatch6 {
+    position: relative;
+    bottom: 496px;
+    padding-left: 985px;
+}.DeathMatch7 {
+    position: relative;
+    bottom: 563px;
+    padding-left: 1132px;
+}.DeathMatch8 {
+    position: relative;
+    bottom: 632px;
+    padding-left: 1284px;
+}
+
+.gta11 {
+    position: relative;
+    padding-left: 137px;
+    bottom: 611px;
+}
+
+.gta12 {
+    position: relative;
+    bottom: 671px;
+    color: white;
+    padding-left: 155px;
+    color: rgb(253, 253, 253);
+font-size: 15px;
+font-weight: 900;
+line-height: 18px;
+
+}
+
+.gta13 {
+    color: rgb(157, 150, 150);
+    font-size: 12px;
+    font-weight: 900;
+
+}
+
+.gta14 {
+    position: relative;
+    bottom: 889px;
+    padding-left: 453px;
+}
+
+.gta15{  
+      color: rgb(253, 253, 253);
+font-size: 14px;
+font-weight: 900;
+/* text-align: left; */
+position: relative;
+bottom: 946px;
+padding-left: 478px;
+
+    
+}
+
+
+.gta16 {
+    position: relative;
+    bottom: 943px;
+    padding-left: 476px;
+    color: rgb(101, 97, 92);
+    font-size: 12px;
+    font-weight: 900;
+
+  
+}
+
