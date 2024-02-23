@@ -76,19 +76,18 @@ padding-left: 108px;
 
 .gta3 {
     position: relative;
-    bottom: 278px;
     padding-left: 108px;
+    padding-top: 0px;
 }
 
 
 .gta4 {
     position: relative;
-    bottom: 260px;
     padding-left: 108px;
     /* width: 75px; */
     /* height: 44px; */
     color: rgb(53, 53, 52);
-
+padding-top: 10px;
     font-size: 24px;
     font-weight: 800;
 
@@ -98,144 +97,409 @@ padding-left: 108px;
 
 .gta5 {
     position: relative;
-    bottom: 235px;
     padding-left: 108px;
-}
-.gta6 {
-    position: relative;
-    bottom: 304px;
-    padding-left: 160px;
-}.gta7 {
-    position: relative;
-    bottom: 372px;
-    padding-left: 215px;
-}.gta8 {
-    position: relative;
-    bottom: 439px;
-    padding-left: 269px;
+    padding-top: 10px;
 }
 
-.gta9 {
+.gta6 {
     position: relative;
-    bottom: 480px;
-    padding-left: 373px;
+    padding-left: 258px;
     color: rgb(53, 53, 52);
     font-size: 23px;
     font-weight: 900;
+    bottom: 55px;
 }
-
 
 .frame {
     position: relative;
-    bottom: 150px;
+    padding-left: 108px;
+    padding-top: 59px;
+}
+
+.gta7 {
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: 800;
+    line-height: 10px;
+    letter-spacing: 0%;
+    position: relative;
+    padding-left: 177px;
+    bottom: 37px;
+}
+
+.gta8 {
+    position: relative;
+    padding-top: 27px;
     padding-left: 108px;
 }
 
+.dust {
+    top: 10px;
+    position: relative;
+    padding-left: 10px;
+}
+
+.gta9 {
+    color: rgb(253, 253, 253);
+    font-size: 15px;
+    font-weight: 900;
+    position: relative;
+    bottom: 67px;
+    padding-left: 10px;
+
+}
+
+.online {
+    position: relative;
+    bottom: 65px;
+    padding-left: 10px;
+}
+
+
 .gta10 {
-    color: rgb(255, 255, 255);
-     
-    font-size: 25px;
-    font-weight: 800;
-    line-height: 10px;
-    /* text-align: left; */
+    color: rgb(253, 253, 253);
+    font-size: 15px;
+    font-weight: 900;
     position: relative;
-    padding-left: 199px;
-    bottom: 188px;
-
-}
-.DeathMatch {
-    position: relative;
-    bottom: 89px;
-    padding-left: 99px;
+    bottom: 114px;
+    padding-left: 309px;
 }
 
-.DeathMatch1 {
+.online1 {
     position: relative;
-    bottom: 155px;
-    padding-left: 251px;
-}.DeathMatch2 {
-    position: relative;
-    bottom: 222px;
-    padding-left: 398px;
-}.DeathMatch3 {
-    position: relative;
-    bottom: 290px;
-    padding-left: 542px;
-
-}.DeathMatch4 {
-    position: relative;
-    bottom: 359px;
-    padding-left: 692px;
-}.DeathMatch5 {
-    position: relative;
-    bottom: 428px;
-    padding-left: 839px;
-}.DeathMatch6 {
-    position: relative;
-    bottom: 496px;
-    padding-left: 985px;
-}.DeathMatch7 {
-    position: relative;
-    bottom: 563px;
-    padding-left: 1132px;
-}.DeathMatch8 {
-    position: relative;
-    bottom: 632px;
-    padding-left: 1284px;
+    bottom: 111px;
+    padding-left: 308px;
 }
 
 .gta11 {
+    color: rgb(253, 253, 253);
+    font-size: 15px;
+    font-weight: 900;
     position: relative;
-    padding-left: 137px;
-    bottom: 611px;
+    bottom: 157px;
+    padding-left: 610px;
+}
+
+.online2 {
+    position: relative;
+    bottom: 153px;
+    padding-left: 600px;
 }
 
 .gta12 {
-    position: relative;
-    bottom: 671px;
-    color: white;
-    padding-left: 155px;
     color: rgb(253, 253, 253);
-font-size: 15px;
-font-weight: 900;
-line-height: 18px;
+    font-size: 15px;
+    font-weight: 900;
+    position: relative;
+    bottom: 195px;
+    padding-left: 901px;
+}
 
+.online3 {
+    position: relative;
+    bottom: 196px;
+    padding-left: 902px;
+}
+
+
+.dfd {
+    position: relative;
+    z-index: 1;
+    top: 90px;
+    color: red;
+    font-size: 13px;
+    font-weight: 800;
+    padding-left: 59px;
+}
+.dfd1{
+    position: relative;
+    z-index: 1;
+    top: 74px;
+    color: red;
+    font-size: 13px;
+    font-weight: 800;
+    padding-left: 357px;
+}
+
+.dfd2 {
+    position: relative;
+    z-index: 1;
+    top: 59px;
+    color: red;
+    font-size: 13px;
+    font-weight: 800;
+    padding-left: 653px;
+}
+
+.dfd3 {
+    position: relative;
+    z-index: 1;
+    top: 43px;
+    color: red;
+    font-size: 13px;
+    font-weight: 800;
+    padding-left: 935px;
 }
 
 .gta13 {
-    color: rgb(157, 150, 150);
-    font-size: 12px;
-    font-weight: 900;
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    padding-left: 183px;
+}
 
+.frame1 {
+    position: relative;
+    right: 76px;
+    top: 32px;
 }
 
 .gta14 {
+    background: rgb(32, 32, 32);
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 2em;
+    width: 2em;
     position: relative;
-    bottom: 889px;
-    padding-left: 453px;
+    left: 108px;
+    top: 36px;
 }
 
-.gta15{  
-      color: rgb(253, 253, 253);
-font-size: 14px;
-font-weight: 900;
-/* text-align: left; */
-position: relative;
-bottom: 946px;
-padding-left: 478px;
-
-    
+.gta15 {
+    background: rgb(32, 32, 32);
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 2em;
+    width: 2em;
+    position: relative;
+    left: 514px;
+    top: -55px;
 }
-
 
 .gta16 {
+    background: rgb(32, 32, 32);
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 2em;
+    width: 2em;
     position: relative;
-    bottom: 943px;
-    padding-left: 476px;
-    color: rgb(101, 97, 92);
-    font-size: 12px;
-    font-weight: 900;
-
-  
+    left: 948px;
+    top: -87px;
 }
 
+.frame7 {
+    position: relative;
+    top: 76px;
+    padding-left: 108px;
+}
+
+
+.frame8 {
+    color: rgb(255, 255, 255);
+font-size: 12px;
+font-weight: 900;
+line-height: 14px;
+position: relative;
+top: 15px;
+}
+
+.frame9 {
+    color: rgb(106, 105, 105);
+    font-size: 10px;
+    font-weight: 900;
+    line-height: 16px;
+    position: relative;
+    top: 22px;
+    width: 388px;
+
+}
+
+.frame10 {
+    position: relative;
+    padding-left: 623px;
+}
+
+.frame11 {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 14px;
+    position: relative;
+    top: 10px;
+}
+
+.frame12 {
+    color: rgb(106, 105, 105);
+    font-size: 10px;
+    font-weight: 900;
+    line-height: 16px;
+    position: relative;
+    top: 22px;
+    width: 258px;
+}
+
+.frame13 {
+    position: relative;
+    padding-left: 1013px;
+    bottom: 84px;
+}
+
+.frame14 {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 14px;
+    position: relative;
+    padding-left: 44px;
+    top: 5px;
+}
+
+.frame15 {
+    color: rgb(106, 105, 105);
+    font-size: 10px;
+    font-weight: 900;
+    position: relative;
+    top: 17px;
+    width: 191px;
+    padding-left: 47px;
+}
+
+.line5 {
+    position: relative;
+    padding-left: 1105px;
+    top: -104px;
+}
+
+.line6 {
+    background: rgb(32, 32, 32);
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 2em;
+    width: 2em;
+    position: relative;
+    left: -59px;
+    top: -17px;  
+} 
+
+.frame18 {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 0%;
+    position: relative;
+    padding-left: 1043px;
+    top: 10px;
+}
+
+.frame19 {
+    color: rgb(106, 105, 105);
+    font-size: 10px;
+    font-weight: 900;
+    position: relative;
+    top: 17px;
+    width: 197px;
+}
+
+.line7 {
+    background: rgb(32, 32, 32);
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 2em;
+    width: 2em;
+    position: relative;
+    left: 829px;
+    top: -151px;
+
+}
+
+.frame20 {
+    position: relative;
+    padding-left: 934px;
+    top: -97px;
+}
+
+.frame21 {
+    color: rgb(255, 255, 255);
+    /* font-family: Gotham; */
+    font-size: 12px;
+    font-weight: 900;
+    position: relative;
+    right: 92px;
+    top: 8px;
+}
+
+.frame22 {
+    color: rgb(106, 105, 105);
+    font-size: 10px;
+    font-weight: 900;
+    width: 183px;
+    position: relative;
+    right: 140px;
+    top: 27px;
+}
+
+.rut {
+    position: relative;
+    top: 30px;
+    padding-left: 108px;
+}
+
+.konteuner {
+    position: absolute;
+    width: 491px;
+    height: 195px;
+    border-radius: 10px;
+    background: rgb(237, 163, 76);
+}
+
+.ded {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    position: relative;
+    top: 55px;
+}
+
+.baba {
+    color: rgb(255, 255, 255);
+    font-family: Glory;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 12px;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+
+.konteuner1 {
+    position: absolute;
+    left: 750px;
+    width: 491px;
+    height: 195px;
+    border-radius: 10px;
+    background: rgb(26, 26, 25);
+}
+
+.ded1 {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    position: relative;
+    top: 55px;
+}
+
+.baba1 {
+    color: rgb(255, 255, 255);
+    font-family: Glory;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 12px;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}

@@ -1,0 +1,35 @@
+<svg width="71.000000" height="34.000000" viewBox="0 0 71 34" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_8_55_dd" x="0.000000" y="0.000000" width="71.000000" height="34.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_8_56_dd" x="22.433990" y="10.410004" width="27.121490" height="13.200996" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_8_55_dd)">
+		<rect id="приложение" rx="2.500000" width="62.000000" height="25.000000" transform="translate(4.500000 0.500000)" fill="#427E58" fill-opacity="0"/>
+		<rect id="приложение" rx="2.500000" width="62.000000" height="25.000000" transform="translate(4.500000 0.500000)" fill="#2F553D" fill-opacity="0"/>
+		<g filter="url(#filter_8_56_dd)">
+			<path id="Duels" d="M26.434 15.52L28.303 15.52C30.06 15.52 31.089 14.477 31.089 13.056L31.089 13.042C31.089 11.621 30.074 10.62 28.331 10.62L26.434 10.62L26.434 15.52ZM28.345 11.817C29.164 11.817 29.703 12.272 29.703 13.063L29.703 13.077C29.703 13.868 29.164 14.316 28.345 14.316L27.792 14.316L27.792 11.817L28.345 11.817ZM32.9834 15.604C33.5224 15.604 33.8794 15.31 34.1174 14.995L34.1174 15.52L35.4404 15.52L35.4404 11.733L34.1174 11.733L34.1174 13.784C34.1174 14.204 33.8864 14.421 33.5574 14.421C33.2284 14.421 33.0184 14.204 33.0184 13.784L33.0184 11.733L31.6884 11.733L31.6884 14.204C31.6884 15.072 32.1714 15.604 32.9834 15.604ZM38.0359 15.611C38.7919 15.611 39.3099 15.31 39.6739 14.841L38.9389 14.232C38.6659 14.505 38.4279 14.617 38.0989 14.617C37.6789 14.617 37.3849 14.414 37.2799 13.994L39.8139 13.994C39.8209 13.903 39.8209 13.805 39.8209 13.721C39.8209 12.608 39.2189 11.649 37.9169 11.649C36.7969 11.649 36.0059 12.531 36.0059 13.63L36.0059 13.644C36.0059 14.813 36.8459 15.611 38.0359 15.611ZM37.2589 13.315C37.3359 12.895 37.5599 12.629 37.9169 12.629C38.2809 12.629 38.5329 12.895 38.5819 13.315L37.2589 13.315ZM40.433 15.52L41.756 15.52L41.756 10.41L40.433 10.41L40.433 15.52ZM44.0085 15.604C44.9325 15.604 45.5555 15.17 45.5555 14.337L45.5555 14.323C45.5555 13.588 44.9605 13.322 44.2115 13.119C43.8195 13 43.5955 12.93 43.5955 12.783L43.5955 12.769C43.5955 12.657 43.7005 12.58 43.9035 12.58C44.2045 12.58 44.6315 12.713 45.0235 12.937L45.4785 12.097C45.0375 11.817 44.4775 11.656 43.9175 11.656C43.0495 11.656 42.3985 12.104 42.3985 12.909L42.3985 12.923C42.3985 13.679 42.9935 13.938 43.7425 14.127C44.1415 14.239 44.3585 14.295 44.3585 14.456L44.3585 14.47C44.3585 14.603 44.2465 14.673 44.0155 14.673C43.6235 14.673 43.1615 14.526 42.7205 14.239L42.2235 15.037C42.7485 15.422 43.3645 15.604 44.0085 15.604Z" fill="#353534" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</g>
+	</g>
+	<rect id="приложение" rx="2.500000" width="62.000000" height="25.000000" transform="translate(4.500000 0.500000)" stroke="#353534" stroke-opacity="1.000000" stroke-width="1.000000"/>
+</svg>
